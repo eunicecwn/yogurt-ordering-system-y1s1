@@ -5,7 +5,6 @@
 * [Technology Stack](#-technology-stack)
 * [Features](#-features)
 * [Installation](#-installation)
-* [Usage Guide](#-usage-guide)
 * [System Components](#-system-components)
 
 ---
