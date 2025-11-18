@@ -92,7 +92,7 @@ g++ -o yogurt_system main.cpp
 
 ## 📄 License
 
-This project is created for **academic purposes** as part of AMCS1013 Problem Solving and Programming course.  
+This project is created for **academic purposes** as part of an university course.  
 Not intended for commercial distribution.
 
 ---
