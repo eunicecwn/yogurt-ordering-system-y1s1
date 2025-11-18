@@ -89,10 +89,10 @@ g++ -o yogurt_system main.cpp
 * Inventory tracking per session
 * Sales reporting and analytics
 
----
-📄 License
-This project is created for academic purposes as part of AMCS1013 Problem Solving and Programming course.
-Not intended for commercial distribution.
----
 
-*Academic project developed for Problem Solving and Programming course*
+## 📄 License
+
+This project is created for **academic purposes** as part of AMCS1013 Problem Solving and Programming course.  
+Not intended for commercial distribution.
+
+---
