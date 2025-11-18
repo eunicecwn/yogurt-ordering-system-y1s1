@@ -1,0 +1,5 @@
+﻿  OrderMenu.cpp
+D:\DFT Sem 1\AMCS1013 Problem Solving and Programming\ASSIGNMENT CODE 2\Assignment ( DFT1S1G5 - Group 1 )\Assignment\Assignment\OrderMenu.cpp(126,66): warning C4309: 'default argument': truncation of constant value
+D:\DFT Sem 1\AMCS1013 Problem Solving and Programming\ASSIGNMENT CODE 2\Assignment ( DFT1S1G5 - Group 1 )\Assignment\Assignment\OrderMenu.cpp(152,12): warning C4311: '<function-style-cast>': pointer truncation from 'char *' to 'int'
+D:\DFT Sem 1\AMCS1013 Problem Solving and Programming\ASSIGNMENT CODE 2\Assignment ( DFT1S1G5 - Group 1 )\Assignment\Assignment\OrderMenu.cpp(152,12): warning C4302: '<function-style-cast>': truncation from 'char *' to 'int'
+  Assignment.vcxproj -> D:\DFT Sem 1\AMCS1013 Problem Solving and Programming\ASSIGNMENT CODE 2\Assignment ( DFT1S1G5 - Group 1 )\Assignment\x64\Debug\Assignment.exe
